@@ -1,3 +1,4 @@
+package src;
 
 public abstract class Employee
 {
@@ -12,8 +13,6 @@ public abstract class Employee
         this.address = address;
         this.basicSalary = basicSalary;
      
-        
-        
     }
     
     public String getName()
